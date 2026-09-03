@@ -22,6 +22,6 @@ Welcome to our GitHub learning community! Please add your introduction below fol
 - **Background:** Computer Science student learning web development and DSA
 - **Learning Goals:** master git workflows and github collabarative development
 - **Fun Fact:** I can solve a Rubik's cube in 4 minutes!
-- **Date Added:** September 1, 2026
+- **Date Added:** october 1, 2010
 
 
